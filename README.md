@@ -1,6 +1,6 @@
 # CMPE 202 - Loops
 
-## All the code changes are present in the dev branch instead of master branch.
+[Game Demo Video](https://www.youtube.com/watch?v=aL4VdmYI3xo&t=4s)
 
 ## Loopy Bird Game using MelonJS game engine
 ### Technologies that would be used in designing the game:
